@@ -1,0 +1,15 @@
+
+db/chroma.sqlite3
+2402.05120.pdf
+.DS_Store
+.env
+app.py
+codegen.py
+crewai.drawio
+pdf2blog.py
+sample-blog.md
+social-media-crew.py
+tensorlfow.md
+youtube-transcript.py
+ytblogger.py
+.$crewai.drawio.bkp
